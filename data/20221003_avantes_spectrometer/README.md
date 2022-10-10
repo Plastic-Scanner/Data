@@ -22,11 +22,18 @@ Data measured with spectrometer [name]: 1204091U1
 After this the data starts
 
 ## Filenaming:  
+types.csv in the `data` folder also describes the plastic type for each .txt file
+
 0-99 series is PP.  
 100-199 series is PET.  
 200-299 series is HDPE.  
-300-399 series is PS
-900-999 series is unknowns, can be anthing like ABS, PLA, POM or plastics that are missing marking.other items that do not have this naming have the plastic type in the name itself.
+300-399 series is PS.
+600-699 series is PVC  
+KL100-199 series is PET.
+KL200-299 series is HDPE.
+KL500-599 series is PP.
+KL600-699 series is PS.  
+(KL)900-999 series is unknowns, can be anthing like ABS, PLA, POM or plastics that are missing marking.other items that do not have this naming have the plastic type in the name itself.
 
 
 ## Data processing  
