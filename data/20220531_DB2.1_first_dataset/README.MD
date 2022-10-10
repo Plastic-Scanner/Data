@@ -29,6 +29,13 @@ Workflow:
 ![setup](img/setup.png)
 ![setup](img/setup1.png)
 
+## Filenaming  
+0-99 series is PP.  
+100-199 series is PET.  
+200-299 series is HDPE.  
+300-399 series is PS.  
+900-999 series is unknowns, can be anthing like ABS, PLA, POM or plastics that are missing marking.other items that do not have this naming have the plastic type in the name itself.
+
 ## How the data is structured
 ![overviewdata](img/overviewdata.png)
 Data is structured like this👆, it starts with a spectralon sample, to have a flat reference response curve.
