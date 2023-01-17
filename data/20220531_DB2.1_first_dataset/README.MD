@@ -1,6 +1,6 @@
 
 # How the data was collected
-All made in a single day, on the 1st of June 2022
+All made in a single day, on the 31st of May 2022
 Measurements taken with DB2.1 board #01 and #03
 ## Installed LED’s: 
 
