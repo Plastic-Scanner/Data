@@ -3,7 +3,7 @@ Mode/Unit-->,,,,,
 Int.time[ms]-->,140,140,140,140,140
 NrOfAverages-->,2,2,2,2,2
 Smoothing-->,0,0,0,0,0
-Wavelength [nm],measurment 1,measurment 2,measurment 3,measurment 4,measurment 5
+Wavelength [nm],measurement 1,measurement 2,measurement 3,measurement 4,measurement 5
 1014.478515625,35728.875,35547.375,35825.75,35853.5,36362.75
 1019.0127824097468,38594.375,38401.375,38700.25,38752.5,39270.25
 1023.5424902547647,41354.875,41122.375,41460.75,41531,42066.25
