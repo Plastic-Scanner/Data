@@ -20,4 +20,4 @@ Workflow:
 - Samples from the Reference material box C were used
 - Each sample was measured 4x times at different places on the sample
 - Thorlabs material was used as a backing material
-- light force was apllied do make a good connection between sample and sensor module
+- light force was apllied to make a good connection between sample and sensor module
