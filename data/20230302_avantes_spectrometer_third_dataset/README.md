@@ -47,4 +47,4 @@ tile)\_(fibre code).csv
 
 This Google Colab notebook uses the data from this repository to show
 some example spectra [link to google
-colab]([https://colab.research.google.com/drive/1LpmTrDJjxso9Lv-zOegcbH_Ezs8RKmB0](https://colab.research.google.com/drive/1lV_nJwXtI-wuD3B83oKq2dguGHzxLimc#scrollTo=5V-2m8YQry0D ))
+colab](https://colab.research.google.com/drive/1lV_nJwXtI-wuD3B83oKq2dguGHzxLimc#scrollTo=5V-2m8YQry0D )
