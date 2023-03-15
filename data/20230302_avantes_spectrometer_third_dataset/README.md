@@ -19,7 +19,8 @@ Light source: Avalight-HAL Data: 03 March 2023
 
 6.  Export as .xlsx file
 
-a more detailed workflow is wrtitten in 'Measurement_report1_referenceboxC.pdf' [link to pdf](https://github.com/Plastic-Scanner/data/blob/main/data/20230302_avantes_spectrometer_third_dataset/Measurement_report1_referenceboxC.pdf)
+A more detailed workflow is written in 'Measurement_report1_referenceboxC.pdf' [link to pdf](../../data-analysis/Measurement_report1_referenceboxC.pdf)
+
 
 **Datastructure:**
 
