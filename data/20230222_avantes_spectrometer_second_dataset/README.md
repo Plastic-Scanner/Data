@@ -19,6 +19,8 @@ Light source: Avalight-HAL Data: 23 February 2023
 
 6.  Export as .xlsx file
 
+A more detailed workflow is written in 'Measurement_report1_referenceboxC.pdf'
+
 **Datastructure:**
 
 Each file starts with:
