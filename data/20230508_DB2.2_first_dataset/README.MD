@@ -1,7 +1,7 @@
 
 # How the data was collected
 All made in a single day, on the 08th of May 2023
-Measurements taken with DB2.1 board #01
+Measurements taken with DB2.2 board #01
 ## Installed LED’s: 
 
 |Wavelength (nm) |940 |1050 |1200 |1300 |1460 |1550 |1650 |1720 |

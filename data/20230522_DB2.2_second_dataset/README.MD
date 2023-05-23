@@ -1,7 +1,7 @@
 
 # How the data was collected
 All made in a single day, on the 22th of May 2023
-Measurements taken with DB2.1 board #01
+Measurements taken with DB2.2 board #01
 
 ## 2.5V reference used!
 JP1 and JP2 were connected to the 2.5V reference voltage, (top part bridged, bottom part open)
